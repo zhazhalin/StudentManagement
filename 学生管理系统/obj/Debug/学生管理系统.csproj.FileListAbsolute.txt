@@ -1,0 +1,14 @@
+c:\users\zhang\documents\visual studio 2013\Projects\学生管理系统\学生管理系统\bin\Debug\学生管理系统.exe.config
+c:\users\zhang\documents\visual studio 2013\Projects\学生管理系统\学生管理系统\bin\Debug\学生管理系统.exe
+c:\users\zhang\documents\visual studio 2013\Projects\学生管理系统\学生管理系统\bin\Debug\学生管理系统.pdb
+c:\users\zhang\documents\visual studio 2013\Projects\学生管理系统\学生管理系统\obj\Debug\学生管理系统.csprojResolveAssemblyReference.cache
+c:\users\zhang\documents\visual studio 2013\Projects\学生管理系统\学生管理系统\obj\Debug\学生管理系统.Form1.resources
+c:\users\zhang\documents\visual studio 2013\Projects\学生管理系统\学生管理系统\obj\Debug\学生管理系统.Properties.Resources.resources
+c:\users\zhang\documents\visual studio 2013\Projects\学生管理系统\学生管理系统\obj\Debug\学生管理系统.csproj.GenerateResource.Cache
+c:\users\zhang\documents\visual studio 2013\Projects\学生管理系统\学生管理系统\obj\Debug\学生管理系统.exe
+c:\users\zhang\documents\visual studio 2013\Projects\学生管理系统\学生管理系统\obj\Debug\学生管理系统.pdb
+C:\Users\zhang\documents\visual studio 2013\Projects\学生管理系统\学生管理系统\obj\Debug\学生管理系统.Form3.resources
+C:\Users\zhang\documents\visual studio 2013\Projects\学生管理系统\学生管理系统\obj\Debug\学生管理系统.Form4.resources
+C:\Users\zhang\documents\visual studio 2013\Projects\学生管理系统\学生管理系统\obj\Debug\学生管理系统.Form2.resources
+C:\Users\zhang\documents\visual studio 2013\Projects\学生管理系统\学生管理系统\obj\Debug\学生管理系统.Form5.resources
+C:\Users\zhang\documents\visual studio 2013\Projects\学生管理系统\学生管理系统\obj\Debug\学生管理系统.Form6.resources
